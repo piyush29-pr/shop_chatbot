@@ -105,9 +105,9 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-**Supratim Nag** – AIML | GenAI | AgenticAI Developer
+**Piyush Prajapati** – AIML | GenAI | AgenticAI Developer
 
-📺 [YouTube Channel](https://youtube.com/@sn-develpoment) | 🐦 [X (Twitter)](https://twitter.com/snsupratim)
+
 
 ---
 
